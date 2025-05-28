@@ -1,0 +1,21 @@
+<routes>
+    <route id="1">
+        <name>Test Route</name>
+        <coordinates>
+            <x>100</x>
+            <y>50.5</y>
+        </coordinates>
+        <creationDate>2024-01-20T12:00:00+03:00</creationDate>
+        <distance>500</distance>
+        <from>
+            <x>10.5</x>
+            <y>20.5</y>
+            <z>30</z>
+        </from>
+        <to>
+            <x>40.5</x>
+            <y>50.5</y>
+            <z>60</z>
+        </to>
+    </route>
+</routes>
